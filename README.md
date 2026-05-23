@@ -401,21 +401,6 @@ The system handles the following errors:
 
 ---
 
-# Screenshots to Include
-
-Take screenshots of:
-
-1. Login Form
-2. Admin Panel
-3. User Dashboard
-4. Successful Admin Login
-5. Successful User Login
-6. Invalid Login Message
-7. credentials.csv File
-8. Visual Studio Window
-
----
-
 # How to Run the Project
 
 1. Open the project in Visual Studio.
@@ -479,7 +464,7 @@ The Login System successfully demonstrates authentication using VB.NET and CSV f
 |---|---|
 | Name | Joezainne Melitante |
 | Course & Section | 2.1 BSIT |
-| Instructor | Mr. Edward James V. Gregada |
+| Instructor | Mr. Edward James V. Grageda |
 | Date Submitted | May 23, 2026 |
 
 ---
