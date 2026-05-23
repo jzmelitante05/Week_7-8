@@ -477,9 +477,9 @@ The Login System successfully demonstrates authentication using VB.NET and CSV f
 
 | Information | Details |
 |---|---|
-| Name | __________________ |
-| Course & Section | __________________ |
-| Instructor | __________________ |
-| Date Submitted | __________________ |
+| Name | Joezainne Melitante |
+| Course & Section | 2.1 BSIT |
+| Instructor | Mr. Edward James V. Gregada |
+| Date Submitted | May 23, 2026 |
 
 ---
